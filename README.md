@@ -1,27 +1,26 @@
 # simplon-php-exercices
 
 #PHP - Les boucles ##Exercice 1 Créer une variable et l'initialiser à 0.
-Tant que cette variable n'atteint pas 10, il faut :
+Tant que cette variable n'atteint pas 10, il faut : l'afficher, l'incrementer
 
-l'afficher
-l'incrementer
 ##Exercice 2 Créer deux variables. Initialiser la première à 0 et la deuxième avec un nombre compris en 1 et 100.
 Tant que la première variable n'est pas supérieur à 20 :
-
 multiplier la première variable avec la deuxième
 afficher le résultat
 incrementer la première variable
+
 ##Exercice 3 Créer deux variables. Initialiser la première à 100 et la deuxième avec un nombre compris en 1 et 100.
 Tant que la première variable n'est pas inférieur ou égale à 10 :
 
 multiplier la première variable avec la deuxième
 afficher le résultat
 décrémenter la première variable
+
 ##Exercice 4 Créer une variable et l'initialiser à 1.
 Tant que cette variable n'atteint pas 10, il faut :
-
 l'afficher
 l'incrementer de la moitié de sa valeur
+
 ##Exercice 5 En allant de 1 à 15 avec un pas de 1, afficher le message On y arrive presque.
 
 ##Exercice 6 En allant de 20 à 0 avec un pas de 1, afficher le message C'est presque bon.
@@ -41,6 +40,7 @@ l'incrementer de la moitié de sa valeur
 Le premier nombre est plus grand si le premier nombre est plus grand que le deuxième
 Le premier nombre est plus petit si le premier nombre est plus petit que le deuxième
 Les deux nombres sont identiques si les deux nombres sont égaux
+
 ##Exercice 5 Faire une fonction qui prend en paramètre un nombre et une chaine de caractères et qui renvoit la concaténation de ces deux paramètres.
 
 ##Exercice 6 Faire une fonction qui prend trois paramètres : nom, prenom et age. Elle doit renvoyer une chaine de la forme :
@@ -75,6 +75,7 @@ septembre
 octobre
 novembre
 décembre
+
 ##Exercice 2 Avec le tableau de l'exercice 1, afficher la valeur de la troisième ligne de ce tableau.
 
 ##Exercice 3 Avec le tableau de l'exercice , afficher la valeur de l'index 5.
@@ -94,7 +95,8 @@ décembre
 ##Exercice 10 Avec le tableau de l'exercice 5, afficher toutes les valeurs de ce tableau ainsi que les clés associés.
 Cela pourra être, par exemple, de la forme : "Le département" + nom_departement + "a le numéro" + num_departement
 
-#PHP - Les paramètres d'URL ##Exercice 1 Faire une page index.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index.php?nom=Nemare&prenom=Jean
+#PHP - Les paramètres d'URL 
+##Exercice 1 Faire une page index.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index.php?nom=Nemare&prenom=Jean
 
 ##Exercice 2 Faire une page index.php. Tester sur cette page que le paramètre age existe et si c'est le cas l'afficher sinon le signaler : index.php?nom=Nemare&prenom=Jean
 
@@ -106,7 +108,8 @@ Cela pourra être, par exemple, de la forme : "Le département" + nom_departemen
 
 ##Exercice 6 Faire une page index.php. Tester sur cette page que tous les paramètres de cette URL existent et les afficher: index.php?batiment=12&salle=101
 
-#PHP - Les formulaires Vous devez agrémenter votre code avec de l'HTML 5 valide (DOCTYPE, ....) ##Exercice 1 Créer un formulaire demandant le nom et le prénom. Ce formulaire doit rediriger vers la page user.php avec la méthode GET.
+#PHP - Les formulaires Vous devez agrémenter votre code avec de l'HTML 5 valide (DOCTYPE, ....) 
+##Exercice 1 Créer un formulaire demandant le nom et le prénom. Ce formulaire doit rediriger vers la page user.php avec la méthode GET.
 
 ##Exercice 2 Créer un formulaire demandant le nom et le prénom. Ce formulaire doit rediriger vers la page user.php avec la méthode POST.
 
