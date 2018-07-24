@@ -132,7 +132,9 @@ Utiliser qu'une seule page.
 
 ##Exercice 8 Sur le formulaire de l'exercice 6, en plus de ce qui est demandé sur les exercices précédent, vérifier que le fichier transmis est bien un fichier pdf.
 
-#PHP - Variables superglobales, sessions et cookies Dans tous les exercices, il faudra faire une page HTML 5 valide et soigner son CSS. ##Exercice 1 Faire une page HTML permettant de donner à l'utilisateur :
+#PHP - Variables superglobales, sessions et cookies Dans tous les exercices, il faudra faire une page HTML 5 valide et soigner son CSS. 
+
+##Exercice 1 Faire une page HTML permettant de donner à l'utilisateur :
 
 son User Agent
 son adresse ip
@@ -147,7 +149,9 @@ Il faudra afficher le contenu de ces variables sur la deuxième page.
 ##Exercice 5 Faire une page qui va pouvoir modifier le contenu du cookie de l'exercice 3.
 
 #PHP - Les dates Pour tous les exercices, vous pouvez utiliser le site http://php.net
-N'hesitez pas à faire des pages avec du HTML/CSS ##Exercice 1 Afficher la date courante en respectant la forme jj/mm/aaaa (ex : 16/05/2016)
+N'hesitez pas à faire des pages avec du HTML/CSS 
+
+##Exercice 1 Afficher la date courante en respectant la forme jj/mm/aaaa (ex : 16/05/2016)
 
 ##Exercice 2 Afficher la date courante en respectant la forme jj-mm-aa (ex : 16-05-16)
 
